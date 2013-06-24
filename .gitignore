@@ -4,7 +4,10 @@
 *.jar
 *.war
 *.ear
+<<<<<<< HEAD
 /.settings
 /target
 /.classpath
 /.project
+=======
+>>>>>>> 3e24d567c090f44fe07689e67057017e4bdd3391

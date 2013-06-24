@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Ecrivez un programme qui affiche les nombres de 1 à 1000. Un nombre par ligne. Respectez les règles suivantes :
 
  * Si le nombre est divisible par 3 ou contient 3, écrire "Foo" à la place de 3.
@@ -37,3 +38,9 @@ Votre code doit tourner dans une JVM, si vous faites des trucs inhabituels, lais
 Pour participer, forker ce projet et envoyer nous votre pull request.
 Vous présenterez votre solution le mercredi 14 Décembre lors d'un coding dojo spécial "Code Story"
 
+=======
+foobarqix
+=========
+
+FooBarQix Generator
+>>>>>>> 3e24d567c090f44fe07689e67057017e4bdd3391
